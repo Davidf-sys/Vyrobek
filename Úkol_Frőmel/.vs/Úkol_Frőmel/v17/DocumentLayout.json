@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zl\u00EDn\\teorie p\u0159enosu informace\\UKOL FROMEL\\\u00DAkol_Fr\u0151mel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB0B4B3-84BB-4EF0-B77D-0517D3143818}|\u00DAkol_Fr\u0151mel.vcxproj|D:\\Zl\u00EDn\\teorie p\u0159enosu informace\\UKOL FROMEL\\\u00DAkol_Fr\u0151mel\\\u00DAkol_Fr\u0151mel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB0B4B3-84BB-4EF0-B77D-0517D3143818}|\u00DAkol_Fr\u0151mel.vcxproj|solutionrelative:\u00DAkol_Fr\u0151mel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u00DAkol_Fr\u0151mel.cpp",
+              "DocumentMoniker": "D:\\Zl\u00EDn\\teorie p\u0159enosu informace\\UKOL FROMEL\\\u00DAkol_Fr\u0151mel\\\u00DAkol_Fr\u0151mel.cpp",
+              "RelativeDocumentMoniker": "\u00DAkol_Fr\u0151mel.cpp",
+              "ToolTip": "D:\\Zl\u00EDn\\teorie p\u0159enosu informace\\UKOL FROMEL\\\u00DAkol_Fr\u0151mel\\\u00DAkol_Fr\u0151mel.cpp",
+              "RelativeToolTip": "\u00DAkol_Fr\u0151mel.cpp",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAAKUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T12:50:13.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
