@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Ukázková stránka</title>
+    <link rel="stylesheet" href="web.css"> 
+</head>
+
+<body>
+    <header>
+        <h1>Stažené soubory z disku</h1>
+    </header>
+
+    <main>
+                
+        <div class="content" id="tenth">
+            <form method="post" enctype="multipart/form-data">
+                <label for="fileToUpload">Stáhnout soubor:</label>
+                <input type="file" name="dokument" id="fileToUpload">
+                <input type="submit" value="Nahrát dokument">
+            </form>
+        </div>
+
+       
+        <div class="content" id="tenth">
+            <form method="post" enctype="multipart/form-data">
+                <label for="fileToUpload">Smazat soubor:</label>
+                <input type="file" name="dokument" id="fileToUpload">
+                <input type="submit" value="Smazat dokument">
+            </form>
+        </div>
+
+    </main>
+</body>
+</html>
